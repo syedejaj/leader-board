@@ -28,6 +28,36 @@ hr {
     margin-bottom: 27px;
 }
 
+.navbar {
+    margin-top: 20px;
+}
+
+span {
+    margin-top: 50px;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 200px 10px 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+nav a img {
+    width: 40px;
+    height: 50px;
+}
+
 /* top players style */
 .top-players {
     margin-bottom: 30px;
